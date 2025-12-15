@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\choko\\.nuget\\packages\\": {}
+    "C:\\Users\\Shady\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\choko\\Documents\\VSC\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Shady\\Documents\\GitHub\\Calculator2\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\choko\\Documents\\VSC\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\choko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\choko\\Documents\\VSC\\Calculator\\obj\\",
+      "projectPath": "C:\\Users\\Shady\\Documents\\GitHub\\Calculator2\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\Shady\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shady\\Documents\\GitHub\\Calculator2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\choko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Shady\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
